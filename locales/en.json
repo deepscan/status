@@ -1,0 +1,16 @@
+{
+  "title": "DeepScan Status",
+  "description": "This page continuously shows status reports of deepscan.io.",
+  "systems": {
+    "items": {
+      "site": {
+        "title": "Site",
+        "description": "DeepScan web service"
+      },
+      "git-service": {
+        "title": "Git service",
+        "description": "Git service such as GitHub"
+      }
+    }
+  }
+}
