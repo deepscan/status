@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>DeepScan Status</title>
+        <link>https://status.deepscan.io</link>
+        <description>This page continuously shows status reports of deepscan.io.</description>
+        <lastBuildDate>Mon, 01 Feb 2021 05:35:45 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Statusfy</generator>
+        <atom:link href="https://status.deepscan.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Service outage for DB migration]]></title>
+            <link>https://status.deepscan.io/incidents/33a784af</link>
+            <guid>https://status.deepscan.io/incidents/33a784af</guid>
+            <pubDate>Fri, 15 Nov 2019 02:02:51 GMT</pubDate>
+            <description><![CDATA[Our Database was responding abnormally.]]></description>
+            <content:encoded><![CDATA[<!-- Your General content -->
+<p>During DB migrations, the service will not be responding. Webhook requests including commits and pull requests will not be processed. No data will be corrupted.</p>
+<p>The service is working now. The outage took less than 5 minutes. Thanks.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DB Issues]]></title>
+            <link>https://status.deepscan.io/incidents/2c4040cc</link>
+            <guid>https://status.deepscan.io/incidents/2c4040cc</guid>
+            <pubDate>Mon, 15 Jul 2019 03:27:00 GMT</pubDate>
+            <description><![CDATA[Our Database was responding abnormally.]]></description>
+            <content:encoded><![CDATA[<!-- Your General content -->
+<p>Our Database was responding abnormally. Some DB queries are failed and some webhook requests including commits and pull requests are not processed. No data is corrupted.</p>
+<!-- Definition of the Incident Updates -->
+<div class="update-block">
+          <div class="update-block-date">2019-07-15T04:14:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Database is back to normal and system is fully operational.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[DB Issues]]></title>
+            <link>https://status.deepscan.io/incidents/78a6e276</link>
+            <guid>https://status.deepscan.io/incidents/78a6e276</guid>
+            <pubDate>Tue, 26 Mar 2019 13:30:00 GMT</pubDate>
+            <description><![CDATA[Our Database was responding abnormally.]]></description>
+            <content:encoded><![CDATA[<!-- Your General content -->
+<p>Our Database was responding abnormally. Some DB queries are failed and some webhook requests including commits and pull requests are not processed. No data is corrupted.</p>
+<!-- Definition of the Incident Updates -->
+<div class="update-block">
+          <div class="update-block-date">2018-03-26T14:30:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Database is back to normal and system is fully operational.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
