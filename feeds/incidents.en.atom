@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.deepscan.io</id>
     <title>DeepScan Status</title>
-    <updated>2022-10-20T04:28:03.427Z</updated>
+    <updated>2022-10-20T05:18:21.374Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.deepscan.io"/>
     <link rel="self" href="https://status.deepscan.io/feeds/incidents.en.atom"/>
