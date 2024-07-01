@@ -4,7 +4,7 @@
         <title>DeepScan Status</title>
         <link>https://status.deepscan.io</link>
         <description>This page continuously shows status reports of deepscan.io.</description>
-        <lastBuildDate>Mon, 01 Jul 2024 17:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 18:02:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.deepscan.io/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
